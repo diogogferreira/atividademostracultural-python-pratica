@@ -1,0 +1,1 @@
+# atividademostracultural-python-pratica
